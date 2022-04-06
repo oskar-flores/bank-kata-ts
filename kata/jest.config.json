@@ -1,0 +1,15 @@
+{
+  "clearMocks": true,
+  "resetMocks": true,
+  "restoreMocks": true,
+  "collectCoverage": true,
+  "preset": "ts-jest/presets/default-esm",
+  "globals": {
+    "ts-jest": {
+      "useESM": true
+    }
+  },
+  "testEnvironment": "node",
+  "roots": ["<rootDir>/src/test"],
+  "testMatch": ["**/*.?(i)test.ts"]
+}

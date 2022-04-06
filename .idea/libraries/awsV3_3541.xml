@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="awsV3.3541">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ts-ddd-template/infrastructure/layers/awsV3.3541.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
