@@ -10,11 +10,11 @@
     "forceConsistentCasingInFileNames": true /* Disallow inconsistently-cased references to the same file. */,
     "resolveJsonModule": true,
     "declaration": true,
-    "noEmitOnError": true,
+    "noEmitOnError": true
   },
   "compilerOptions": {
     "outDir": "./dist"
   },
   "include": ["src/**/**.ts"],
-  "exclude": ["dist", "node_modules"]
+  "exclude": ["dist", "kata/node_modules"]
 }
